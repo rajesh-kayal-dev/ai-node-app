@@ -16,14 +16,23 @@ This is a beginner-friendly Node.js project that integrates the **Gemini 2.5 mod
 ## 🗂️ Project Structure
 
 gemini-node-app/
+
 ├── node_modules/
+
 ├── routes/
+
 │ └── generateText.js
+
 ├── controllers/
+
 │ └── textGenerator.js
+
 ├── .env
+
 ├── app.js
+
 ├── package.json
+
 └── README.md
 
 ---
