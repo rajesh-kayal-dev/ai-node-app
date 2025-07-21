@@ -1,4 +1,4 @@
-# ✨ Gemini 2.5 Text Generation API - Node.js Project
+# ✨ Text Generation API - Node.js Project
 
 This is a beginner-friendly Node.js project that integrates the **Gemini 2.5 model** from Google AI to generate text from a prompt using the official Gemini SDK.
 
